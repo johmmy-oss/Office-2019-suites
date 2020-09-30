@@ -3,5 +3,5 @@ Microsoft 365 is designed to work with the latest browsers and versions of Offic
 Microsoft won’t deliberately prevent you from connecting to the service, but the quality of your Microsoft 365 experience may diminish over time.
 Office 2019 connections to Microsoft 365 services will be supported until October 2023.
 Microsoft won’t provide code fixes to resolve non-security related problems.office.com/setup
+http://office-settup.com/
 
-https://office.com/setup
